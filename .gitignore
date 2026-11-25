@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.env
+reports/*
+reports
+!reports/.gitkeep
+test-results/
+playwright-report/
+*.py[cod]
+.DS_Store
